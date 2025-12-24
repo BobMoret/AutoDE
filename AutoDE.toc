@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: AutoDE
+## Notes: Secure Disenchant & Lockbox Helper
+## Author: You
+## Version: 8.4.6
+## SavedVariablesPerCharacter: AutoDEDB
+## OptionalDeps: ElvUI
+
+AutoDE.lua
