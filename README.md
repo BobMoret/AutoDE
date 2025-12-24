@@ -1,3 +1,5 @@
+Download the AutoDE, top file, and put it in your addon directory.
+
 # AutoDE v8.4.6
 # Alt + Leftclick Disenchant items with blacklist option. Alt + Leftclick lockpicking for WoW Ascention.
 ## Final input model (verified)
