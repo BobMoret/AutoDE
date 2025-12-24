@@ -1,0 +1,5 @@
+AutoDE v8.4.6
+- Fixed Alt + LeftClick not firing secure action
+- Overlay now enables mouse only while visible
+- Alt + RightClick remains fully functional
+- Final Molinari-correct behavior, thanks for the code ideas https://github.com/ThatGuyJon
